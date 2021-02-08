@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Мнение Хесуса](https://up.htmlacademy.ru/htmlcss/30/user/1728271).
-* Наставник: `Неизвестно`.
+* Студент: [Владислав Афонькин](https://up.htmlacademy.ru/htmlcss/30/user/1728271).
+* Наставник: [Игорь Кострубин](https://up.htmlacademy.ru/htmlcss/30/user/1201177)
 
 ---
 
